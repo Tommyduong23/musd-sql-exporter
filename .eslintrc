@@ -57,6 +57,7 @@
 		"appRequire": true,
 		"firebase": true,
 		"window": true,
-		"libRequire": true
+		"libRequire": true,
+		"RootDir" : true
   }
 }

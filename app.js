@@ -4,6 +4,8 @@
 require( 'apprequire' )( __dirname );
 require( 'dotenv' ).config();
 
+global.RootDir = __dirname;
+
 /* Dependencies */
 
 const express    = require( 'express' );
