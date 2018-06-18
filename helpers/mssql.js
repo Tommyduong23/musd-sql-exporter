@@ -6,6 +6,7 @@ const config = {
 	password : process.env.PASSWORD_MSSQL,
 	server   : process.env.SERVER_MSSQL,
 	database : process.env.DATABASE_MSSQL,
+	domain   : process.env.DOMAIN_MSSQL,
 
 	options : {
 		encrypt : true // Use this if you're on Windows Azure

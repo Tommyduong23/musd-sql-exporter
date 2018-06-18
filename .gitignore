@@ -56,6 +56,7 @@ package-lock.json
 
 # Sensitive variables, API keys, etc.
 env.js
+.env
 
 # Firebase service account
 lcap-glass-dev-firebase.json
