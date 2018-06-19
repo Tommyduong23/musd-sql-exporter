@@ -1,0 +1,62 @@
+
+const goals = {
+	one   : '-KgttkAwKBrSrczeZiSb',
+	two   : '-KgttlKhCZIGKwH8YoVW',
+	three : '-Kgttou7EOqyin08g7zx',
+	four  : '-Kgttr66K-DG7GiF2zBb',
+};
+
+const map = {
+	'1'  : goals.three,
+	'2'  : goals.one,
+	'3'  : goals.three,
+	'4'  : goals.three,
+	'5'  : goals.three,
+	'6'  : goals.two,
+	'7'  : goals.two,
+	'8'  : goals.two,
+	'9'  : goals.four,
+	'10' : goals.four,
+	'11' : goals.four,
+	'12' : goals.one,
+	'13' : goals.one,
+	'14' : goals.one,
+	'15' : goals.one,
+	'16' : goals.one,
+	'17' : goals.one,
+	'18' : goals.one,
+	'19' : goals.one, // couldnt find this one
+	'20' : goals.one,
+	'21' : goals.one,
+	'22' : goals.one,
+	'23' : goals.one,
+	'24' : goals.one,
+	'25' : goals.one, // couldnt find this one
+	'26' : goals.one,
+	'27' : goals.one,
+	'28' : goals.one,
+	'29' : goals.one,
+	'30' : goals.one,
+	'31' : goals.three,
+	'32' : goals.three, // couldnt find this one
+	'33' : goals.four,
+	'34' : goals.one,
+	'35' : goals.three,
+	'36' : goals.three,
+	'37' : goals.three,
+	'38' : goals.three,
+	'39' : goals.three,
+	'40' : goals.three,
+	'41' : goals.three,
+	'42' : goals.three,
+	'43' : goals.four,
+	'44' : goals.three,
+	'45' : goals.one,
+	'46' : goals.one,
+	'47' : goals.one,
+	'48' : goals.one,
+	'49' : goals.one,
+	'50' : goals.one,
+};
+
+module.exports = map;
