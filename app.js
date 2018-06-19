@@ -68,3 +68,7 @@ app.listen( port, () => {
 	console.log( `App running on port: ${port}` );
 
 } );
+
+// const service = appRequire( 'lib/glass/service' );
+
+// service.getIndicators();
